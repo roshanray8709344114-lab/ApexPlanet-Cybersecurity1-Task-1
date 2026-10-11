@@ -1,0 +1,16 @@
+APEX PLANET TASK 2 — FINAL SUBMISSION CHECKLIST
+
+[ ] Report reviewed for accuracy
+[ ] Demo video added
+[ ] Actual Nmap output files added
+[ ] Actual screenshots added
+[ ] Wireshark screenshots/captures added
+[ ] Firewall block and restoration evidence added
+[ ] Any missing practical step marked honestly
+[ ] Greenbone/OpenVAS limitation clearly disclosed (Stopped at 0%)
+[ ] No passwords, private keys, or unrelated personal files included
+[ ] README updated with the exact files included
+[ ] GitHub repository checked for correct visibility and final commit
+[ ] Submission link copied and tested
+
+Do not state that the OpenVAS vulnerability scan completed unless you later obtain a real completed report.
